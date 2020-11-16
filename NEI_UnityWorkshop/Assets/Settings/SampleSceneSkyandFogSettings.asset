@@ -18,7 +18,7 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 1
   intensity:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
     min: 0
   maximumVelocity:
@@ -162,6 +162,7 @@ MonoBehaviour:
   - {fileID: 3912485203739470195}
   - {fileID: -1658960478407648048}
   - {fileID: 5321722785694334585}
+  - {fileID: -6680591778208320165}
 --- !u!114 &3912485203739470195
 MonoBehaviour:
   m_ObjectHideFlags: 3
