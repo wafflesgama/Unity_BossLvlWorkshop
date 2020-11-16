@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CloudGround
+  m_Shader: {fileID: -6465566751694194690, guid: 7f228fc505e4c9e458d403e564c25da1,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    MotionVector: User
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_31B2F129: 398.2
+    - Vector1_52A18849: 0.002
+    - Vector1_731A63D9: 0.2
+    - Vector1_956925F5: 10000
+    - Vector1_994A26A: 1
+    - Vector1_CFF10597: 0
+    - Vector1_D2B1A4E: 0.0001
+    - Vector1_D2B945A2: -4.38
+    - Vector1_D41C0733: -1.5
+    - Vector1_D5CF953C: 0.001
+    - Vector1_DEE9E9DA: 1.44
+    - Vector1_E4E3B513: 0.5
+    m_Colors:
+    - Color_B0C604FC: {r: 0.5762727, g: 0.6363475, b: 0.6603774, a: 0}
+    - Color_E8A1F217: {r: 0.48095408, g: 0.50741315, b: 0.5283019, a: 0}
+    - Vector2_4442ABC8: {r: 0.1, g: 0.2, b: 0, a: 0}
+    - Vector2_671742DA: {r: 0.0005, g: 0.005, b: 0, a: 0}
+    - Vector2_BEF0FBEF: {r: 0.0002, g: 0.0003, b: 0, a: 0}
+    - Vector2_C3EDAB32: {r: 0.002, g: 0.001, b: 0, a: 0}
